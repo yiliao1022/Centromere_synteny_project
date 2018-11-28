@@ -1,4 +1,4 @@
-# Centromere_synteny_project walksthrough
+# Centromere_synteny_project walksthrough 123
 # How to identify genome-wide synteny with LASTZ alignment
 
 This is the walkstrough how to identifiy genome-wide synteny markers based on LASTZ alignment.
